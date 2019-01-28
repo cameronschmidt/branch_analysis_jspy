@@ -38,6 +38,11 @@ for (var i = 0; i < strings.length; i--) {
   console.log("dead code")
 }
 
+for (var m = 0; m < 10; m--) {
+  // TODO: fix this dead code
+  console.log("This is dead code")
+}
+
 if (str == null && str.length == 0) {
   console.log("String is empty");
 }
