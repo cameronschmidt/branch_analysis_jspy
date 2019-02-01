@@ -32,6 +32,8 @@ for (var k = 0; k < 10; k++)
 
 if (a === a) {
   console.log("This is very strange coding");
+  console.log("We should really fix this strange coding");
+  // TODO: fix this strange coding
 }
 
 for (var i = 0; i < strings.length; i--) {
